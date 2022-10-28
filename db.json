@@ -1,6 +1,6 @@
 {
 	"data": {
-		"Male":true,
+		"Male":"true",
 		"TopBody":0,
 		"BottomBody":2,
 		"Chest":"0.4",
