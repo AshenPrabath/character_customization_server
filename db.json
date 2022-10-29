@@ -1,8 +1,8 @@
-{
+{"data":{
 	"Male":"true",
 	"TopBody":0,
 	"BottomBody":2,
 	"Chest":"0.4",
 	"Waist":"0.5",
-	"Hips":0.3
-}
+	"Hips":"0.3"
+}}
